@@ -1,2 +1,2 @@
 # Portfolio-Fikri-Hambali
-Web
+ini adalah web portfolio pribadi saya
